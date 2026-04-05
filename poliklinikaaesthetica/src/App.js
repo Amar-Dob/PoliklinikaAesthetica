@@ -1,3 +1,4 @@
+// Components
 import CommingSoon from './components/CommingSoon';
 
 function App() {
